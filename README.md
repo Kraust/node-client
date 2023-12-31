@@ -141,7 +141,7 @@ Here are a few env vars you can set while starting `neovim`, that can help debug
 Will spawn the node process that calls `neovim-client-host` with `--inspect-brk` so you can have a debugger. Pair that with this [Node Inspector Manager Chrome plugin](https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj?hl=en)
 
 ### Logging
-Logging is done using `winston` through the `logger` module. Plugins have `console` replaced with this interface.
+TBD
 
 #### `NVIM_NODE_LOG_LEVEL`
 Sets the logging level for winston. Default is `debug`, available levels are `{ error: 0, warn: 1, info: 2, verbose: 3, debug: 4, silly: 5 }`

@@ -45,8 +45,7 @@
   },
   "dependencies": {
     "@msgpack/msgpack": "^2.8.0",
-    "semver": "^7.5.2",
-    "winston": "3.10.0"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.15.5",
