@@ -1,8 +1,8 @@
 {
-  "name": "neovim",
+  "name": "kraust-neovim",
   "description": "Neovim client API and neovim remote plugin provider",
   "version": "4.10.1",
-  "homepage": "https://github.com/neovim/node-client",
+  "homepage": "https://github.com/Kraust/node-client",
   "authors": [
     {
       "name": "Billy Vong",
@@ -23,10 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/neovim/node-client"
+    "url": "https://github.com/Kraust/node-client"
   },
   "bugs": {
-    "url": "https://github.com/neovim/node-client/issues"
+    "url": "https://github.com/Kraust/node-client/issues"
   },
   "license": "MIT",
   "bin": {
